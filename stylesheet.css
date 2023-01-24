@@ -1,0 +1,47 @@
+body {
+    font-family:Tahoma;
+}
+h1 {
+    color: rgb(255, 179, 103);
+    font-size: 100px;
+    text-align: center;
+    background-color: rgb(167, 193, 255);
+}
+h2 {
+    font-size: 45px;
+    color: rgb(234, 234, 234);
+}
+h2 span {
+    background-color: rgb(152, 103, 103,0.5);
+}
+
+h3 {
+    color: rgb(152, 103, 103,0.5);
+    font-size: 25px;
+}
+.intro {
+    font-weight: 900;
+    background-color: rgb(234, 234, 234);
+}
+
+img {
+    margin: auto;
+  display: block;
+}
+.link{
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(94, 175, 94)
+}
+ 
+.link:hover {
+    color:rgb(255, 166, 0);
+}
+
+button{
+    background-color: rgb(255, 179, 103);
+
+}
+button:hover{
+    background-color: rgb(167, 193, 255);
+}
